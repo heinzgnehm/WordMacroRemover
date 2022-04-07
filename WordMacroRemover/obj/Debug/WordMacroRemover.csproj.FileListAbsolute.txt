@@ -1,0 +1,13 @@
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/WordMacroRemover.exe.config
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/WordMacroRemover.exe
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/WordMacroRemover.pdb
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/Microsoft.Office.Interop.Excel.dll
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/Microsoft.Office.Interop.PowerPoint.dll
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/Microsoft.Office.Interop.Word.dll
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/bin/Debug/Microsoft.Vbe.Interop.dll
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.csproj.AssemblyReference.cache
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.exe.config
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.csproj.CoreCompileInputs.cache
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.csproj.CopyComplete
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.exe
+/Users/hgnehm/Projects/WordMacroRemover/WordMacroRemover/obj/Debug/WordMacroRemover.pdb

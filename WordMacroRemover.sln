@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordMacroRemover", "WordMacroRemover\WordMacroRemover.csproj", "{E35E77FA-A6CF-4120-BD41-8A3D4E31B353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35E77FA-A6CF-4120-BD41-8A3D4E31B353}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E35E77FA-A6CF-4120-BD41-8A3D4E31B353}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E35E77FA-A6CF-4120-BD41-8A3D4E31B353}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E35E77FA-A6CF-4120-BD41-8A3D4E31B353}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37D2710-1809-4BB3-B8DE-2672771B1E33}
+	EndGlobalSection
+EndGlobal
